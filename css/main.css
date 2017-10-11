@@ -15,3 +15,20 @@ nav>ul {
 .wrapper {
   background-color: #eee8d5;
 }
+.contents, .favs, .facts, .types {
+  color: #93a1a1;
+}
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+.dfn strong:nth-child(2) {
+  color: #fff;
+}
+ol li:first-child {
+  color: #719e47;
+}
+ol li:last-child {
+  color: #2aa198;
+}
